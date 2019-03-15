@@ -1,0 +1,21 @@
+node_modules
+static/release
+static/dist
+#dog.js
+wrk
+.DS_Store
+npm-debug.log
+npm-debug.log.*
+.eslintrc
+.idea
+logs
+Error.log
+package-lock.json
+yarn-error.log
+access.log
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# mail/mail.who.json
